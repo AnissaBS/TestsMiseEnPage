@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#bandeau{
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(105, 200, 138);
+}
+
+#contenu{
+    width: 100%;
+    height: 70vh;
+    background-color: #5e6c5e;
+}
+
+#piedpage{
+    width: 100%;
+    height: 20vh;
+    background-color: #6f956f;
+}
+
+#menu{
+    float: left;
+    width: 10wh;
+    height: 70vh;
+    background-color: #4b8f4b;
+}
+
+#menu_haut{
+    width: auto;
+    height: 35vh;
+    background-color: aliceblue;
+}
+
+#menu_bas{
+    width: auto;
+    height: 35vh;
+    background-color: beige;
+}
+
+#blocnote{
+    float: right;
+    display: right;
+    width: 25vh;
+    height: 25vh;
+    background-color: rgb(128, 170, 170);
+}
+
