@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+h2{
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+/* Exercice 1 */
+
+.pays{
+    margin-bottom: 50px;
+}
+
+
+/* Exercice 2 */
+
+.all{
+    border: 1px solid grey;
+    border-collapse: separate;
+    width: 650px;
+    height: 200px;
+    margin-bottom: 100px;
+}
+
+.all td{
+    border: 1px solid grey;
+}
+
+
+/* Exercice 2 */
+
+.baule{
+    vertical-align: bottom;
+}
+
+.cannes{
+    vertical-align: top;
+}
+
+
+/* Exercice 5 */
+
+.table5{
+    border-collapse: collapse;
+    width: 300px;
+    margin-bottom: 100px;
+}
+
+.table5 td{
+    border: 1px solid black;
+}
+
+
+.baule2{
+    vertical-align: top;
+}
